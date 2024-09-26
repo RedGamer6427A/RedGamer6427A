@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on all sorts of Projects
 - 📫 How to reach me -- DM me on Discord with @redgamer6427a
-- 📦 My skills: Python, HTML, CSS, MCFunction, Java and some of Javascript
+- 📦 My skills: Python, HTML, CSS, MCFunction, Java and some Javascript
 
 <!---
 RedGamer6427A/RedGamer6427A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
